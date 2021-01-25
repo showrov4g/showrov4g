@@ -4,7 +4,9 @@
 
 I am a professional web developer. I am an expert in HTML, CSS, JAVASCRIPT, jQuery, PHP, WordPress theme Development. I have more than 3 years of work experience locally and internationally. I have complete more than 500 plus projects for my clients. Thnaks you for visiting my profile.
 
-Skills: HTML/CSS/JAVASCRITP/JQUERY/BOOTSTARP/PHP/Go?WORDPRESS DEVELOPMENT
+Skills:
+HTML
+/CSS/JAVASCRITP/JQUERY/BOOTSTARP/PHP/Go?WORDPRESS DEVELOPMENT
 
 - 🔭 I’m currently working on WordPress Project 
 - 🌱 I’m currently learning Laravel  
