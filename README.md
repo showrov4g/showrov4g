@@ -10,7 +10,7 @@ HTML
 
 - 🔭 I’m currently working on WordPress Project 
 - 🌱 I’m currently learning Laravel  
-
+- 🌱 I’m currently learning JavaScript 
 
 
 [<img src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github' height='40'>](https://github.com/showrov4g)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/showrov4g-5280401b5/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height='40'>](https://www.facebook.com/showrov4g)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height='40'>](https://www.instagram.com/ghoshshowrov/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145812.svg' alt='twitter' height='40'>](https://twitter.com/@showrov4g)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15078936)  [<img src='https://www.flaticon.com/svg/static/icons/svg/975/975645.svg' alt='website' height='40'>]
