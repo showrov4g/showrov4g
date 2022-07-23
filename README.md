@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Showrov Ghosh
 #### I am Professional Website Developer
-![I am Professional Website Developer](https://showrov.com/wp-content/uploads/2021/05/Showrov-Ghosh-1.png)
+![I am Professional Website Developer]
 
 I am a professional web developer. I am an expert in HTML, CSS, JAVASCRIPT, jQuery, PHP, WordPress theme Development. I have more than 3 years of work experience locally and internationally. I have complete more than 500 plus projects for my clients. Thnaks you for visiting my profile.
 
