@@ -13,7 +13,7 @@ HTML
 - 🌱 I’m currently learning JavaScript 
 
 
-[<img src='https://www.flaticon.com/svg/static/icons/svg/270/270798.svg' alt='github' height='40'>](https://github.com/showrov4g)
+[<img src='![image](https://user-images.githubusercontent.com/71726240/180614871-40369417-1124-420c-9cfc-8e9bd6af6029.png)' alt='github' height='40'>](https://github.com/showrov4g)
 [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/showrov4g/) 
 [<img src='https://www.flaticon.com/svg/static/icons/svg/145/145802.svg' alt='facebook' height='40'>](https://www.facebook.com/showrov4g) 
 [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg' alt='instagram' height='40'>](https://www.instagram.com/ghoshshowrov/) 
