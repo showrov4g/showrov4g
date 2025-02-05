@@ -20,7 +20,11 @@ I am a self-motivated front-end developer with experience in building dynamic an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=showrov4g&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=showrov4g&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # current overview
-I'm currently working on a bistro project<br>I'm looking to collaborate on a React open-source project<br>I'm helping for help with solving problems<br>I'm presently learning next.js<br>Programming is my hobby and I have a hobby for planting tree
+* I'm currently working on a bistro project<br>
+* I'm looking to collaborate on a React open-source project<br>
+* I'm helping for help with solving problems<br>
+* I'm presently learning next.js<br>
+* Programming is my hobby and I have a hobby for planting tree
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
