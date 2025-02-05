@@ -5,7 +5,6 @@
 </div>
 
 ###
-# 💫 About Me:
 Hi 👋! My name is Showrov Ghosh and I'm a Frontend Developer from Bangladesh
 
 
