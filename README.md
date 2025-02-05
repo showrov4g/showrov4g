@@ -5,7 +5,9 @@
 </div>
 
 ###
-Hi 👋! My name is Showrov Ghosh a self-motivated frontend developer I love to do code.
+# Hi 👋! My name is Showrov Ghosh 
+# About me !
+I am a self-motivated front-end developer with experience in building dynamic and user-friendly web applications. I am an expert to create in responsive, high-performance web applications for better user experience. I love to do code and solve problems.
 
 
 ## 🌐 Socials:
