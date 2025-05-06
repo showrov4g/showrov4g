@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/xSF1WW9j/Showrov-Ghosh-1.png"  />
+  <img height="0" src="https://i.ibb.co.com/xSF1WW9j/Showrov-Ghosh-1.png"  />
 </div>
 
 ###
